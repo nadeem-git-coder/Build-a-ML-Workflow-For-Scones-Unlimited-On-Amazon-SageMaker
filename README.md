@@ -32,7 +32,7 @@ The goal is to create a scalable and safe model that other teams can use on-dema
 - [Pipeline Architecture](#pipeline-architecture)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 
 ## Getting Started
