@@ -18,10 +18,10 @@ This project demonstrates building an end-to-end machine learning pipeline for S
 
 To get started with this project, clone the repository and navigate to the project directory:
 
-bash
+```bash
 git clone https://github.com/nadeem-git-coder/Build-a-ML-Workflow-For-Scones-Unlimited-On-Amazon-SageMaker.git
 cd Build-a-ML-Workflow-For-Scones-Unlimited-On-Amazon-SageMaker
-
+```
 
 ## Prerequisites
 
