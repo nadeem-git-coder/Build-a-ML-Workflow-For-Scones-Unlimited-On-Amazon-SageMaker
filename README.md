@@ -40,8 +40,8 @@ The goal is to create a scalable and safe model that other teams can use on-dema
 To get started with this project, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/aniketjain12/Build-a-ML-Workflow-For-Scones-Unlimited-On-Amazon-SageMaker-.git
-cd Build-a-ML-Workflow-For-Scones-Unlimited-On-Amazon-SageMaker-
+git clone https://github.com/nadeem-git-coder/Build-a-ML-Workflow-For-Scones-Unlimited-On-Amazon-SageMaker.git
+cd Build-a-ML-Workflow-For-Scones-Unlimited-On-Amazon-SageMaker
 ```
 
 ## Prerequisites
